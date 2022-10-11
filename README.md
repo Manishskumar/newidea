@@ -1,0 +1,2 @@
+# newidea
+lots of code
